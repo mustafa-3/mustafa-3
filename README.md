@@ -143,7 +143,7 @@
     <td align=center >4.</td>
     <td>Random User Generator</td>
     <td>https://random-user-react2.netlify.app/</td> 
-     <td>useState, useEffect, fetch, REST API</td>
+     <td>React, useState, useEffect, fetch, REST API</td>
 </tr>
 <tr>
     <td align=center >5.</td>
@@ -168,7 +168,7 @@
     <td align=center >8.</td>
     <td>Task Tracker</td>
     <td>https://react-task-tracker-app1.netlify.app/</td>  
-    <td> JS DOM, Events</td>  
+    <td>React, React DOM, Components, Props </td>  
     
    
 </tr>
