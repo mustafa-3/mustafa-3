@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 
 
-<h1 align="center">Hi 👋, I'm Barış Şahin</h1>
+<h1 align="center">Hi , I'm Mustafa Sağun</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=I'm  a Frontend Developer!;I used it in my projects ;React | Redux ;HTML|CSS|JS|Responsive Design!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
@@ -19,7 +19,7 @@
  <img align="right" src="https://github.com/akib001/akib001/blob/1404919818557ed5858331642b63d01e2485a97a/animation_500_kxa883sd.gif" alt="akib001" width="20%" height="30%" />
 </p>
 
-I prefer React & Django for web/mobile full-stack development.
+
 
 
 - Python, HTML5, CSS3, Git, GitHub, Linux
@@ -28,7 +28,7 @@ I prefer React & Django for web/mobile full-stack development.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
- <a href="https://linkedin.com/in/www.linkedin.com/in/baris-sahin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/baris-sahin" height="30" width="40" /></a>
+ <a href="https://linkedin.com/in/www.linkedin.com/in/mustafa-sagun1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/baris-sahin" height="30" width="40" /></a>
  <a href="mailto:brsshn292929@gmail.com" target="blank"><img align="center"
       src="https://cdn-icons-png.flaticon.com/512/281/281769.png"
       alt="Barıs SAHİN" height="30" width="40" /></a>
