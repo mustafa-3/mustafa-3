@@ -162,7 +162,7 @@
     <td align=center >7.</td>
     <td>Movie App</td>
     <td>https://react-movie-app11.netlify.app/</td>  
-     <td>React, fetch, Events, React-Router, API, Bootstrap, React-icons, Firebase</td>  
+     <td>React, fetch, React-Router, API, Bootstrap, React-icons, Firebase</td>  
 </tr>
  <tr>
     <td align=center >8.</td>
