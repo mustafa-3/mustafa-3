@@ -123,19 +123,19 @@
 </tr>
 <tr>
     <td align=center >1.</td>
-    <td>React-Fireblog</td>
+    <td>React Fireblog</td>
     <td>https://react-fireblog-app.netlify.app/</td> 
     <td>React, React DOM, Components, Props </td>
 </tr>
 <tr>
     <td align=center >2.</td>
-    <td>React-Tour_Places</td>
+    <td>React Tour_Places</td>
     <td>https://tourproject1.netlify.app/</td> 
     <td>React, React DOM, Components, Props </td>
 </tr>
 <tr>
     <td align=center >3.</td>
-    <td>Languages Cards</td>
+    <td>Language Cards</td>
     <td>https://language-cards2.netlify.app/</td>  
      <td>React, React DOM, Components, Props </td>
 </tr>
@@ -160,13 +160,13 @@
 </tr>
 <tr>
     <td align=center >7.</td>
-    <td>Movie-App</td>
+    <td>Movie App</td>
     <td>https://react-movie-app11.netlify.app/</td>  
      <td> React,Async Await, Axios, Events,React-Router,API, Bootstrap, React-icons</td>  
 </tr>
  <tr>
     <td align=center >8.</td>
-    <td>Task-Tracker</td>
+    <td>Task Tracker</td>
     <td>https://react-task-tracker-app1.netlify.app/</td>  
     <td> React, firebase database, firebase ( collection, getDocs, addDoc, deleteDoc, doc, updateDoc), Bootstrap, React-icons</td>  
     
