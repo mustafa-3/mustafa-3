@@ -173,19 +173,7 @@
     
    
 </tr>
- <tr>
-    <td align=center >12.</td>
-    <td>React-Shopping-Card</td>
-    <td>https://react-context-ap-shopping-card.vercel.app/</td> 
-    <td>React,Async Await, Axios, Events,React-Router,Faker,Context,Reducer</td> 
-</tr>
 
- <tr>
-    <td align=center >13.</td>
-    <td>React-Carousel</td>
-    <td>https://react-carousel1.vercel.app/</td> 
-     <td>React-carousel, useState, useEffect</td> 
-</tr>
      
 </table>
 
@@ -202,9 +190,7 @@
 </tr>
 
   
-  <table>
-       
-   
+
 
      
      
