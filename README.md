@@ -125,7 +125,7 @@
     <td align=center >1.</td>
     <td>React Fireblog</td>
     <td>https://react-fireblog-app.netlify.app/</td> 
-    <td>React, React DOM, Components, Props </td>
+    <td>React, Material UI, useState, React-Router, Firebase</td>
 </tr>
 <tr>
     <td align=center >2.</td>
@@ -143,32 +143,32 @@
     <td align=center >4.</td>
     <td>Random User Generator</td>
     <td>https://random-user-react2.netlify.app/</td> 
-     <td>useState, useEffect, axios, async await, REST API</td>
+     <td>useState, useEffect, fetch, REST API</td>
 </tr>
 <tr>
     <td align=center >5.</td>
     <td>Recipe App</td>
     <td>https://react-recipe-app7.netlify.app/</td> 
-     <td>JS DOM, Async Await, Axios, Events,React-Router</td>
+     <td>React, Material UI, useState, React-Router, Firebase</td>
 </tr>
 <tr>
     <td align=center >6.</td>
     <td>Weather App</td>
     <td>https://weather-app-react3.netlify.app/</td> 
-    <td>React, useState, useEffect, axios, async await, API</td>   
+    <td>React, useState, useEffect, async await, API</td>   
     
 </tr>
 <tr>
     <td align=center >7.</td>
     <td>Movie App</td>
     <td>https://react-movie-app11.netlify.app/</td>  
-     <td> React,Async Await, Axios, Events,React-Router,API, Bootstrap, React-icons</td>  
+     <td>React, fetch, Events, React-Router, API, Bootstrap, React-icons, Firebase</td>  
 </tr>
  <tr>
     <td align=center >8.</td>
     <td>Task Tracker</td>
     <td>https://react-task-tracker-app1.netlify.app/</td>  
-    <td> React, firebase database, firebase ( collection, getDocs, addDoc, deleteDoc, doc, updateDoc), Bootstrap, React-icons</td>  
+    <td> JS DOM, Events</td>  
     
    
 </tr>
