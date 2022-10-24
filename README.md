@@ -21,7 +21,7 @@
 
 
 
-- React,JavaScript, HTML5, CSS3, Git, GitHub, 
+- React, JavaScript, HTML5, CSS3, Git, GitHub, 
 
 - 💬 Ask  me about anything that you want to learn React,Redux,Js, HTML,CSS
 
