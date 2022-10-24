@@ -131,62 +131,44 @@
 <tr>
     <td align=center >2.</td>
     <td>React-Tour_Places</td>
-    <td>https://brs14shntourfetchproject.netlify.app/</td> 
+    <td>https://tourproject1.netlify.app/</td> 
     <td>React, React DOM, Components, Props </td>
 </tr>
 <tr>
     <td align=center >3.</td>
     <td>Languages Cards</td>
-    <td>https://react-02-lang-cards.vercel.app/</td>  
+    <td>https://language-cards2.netlify.app/</td>  
      <td>React, React DOM, Components, Props </td>
 </tr>
 <tr>
     <td align=center >4.</td>
     <td>Random User Generator</td>
-    <td>https://brs14shn-react-user-random-generator.netlify.app/</td> 
+    <td>https://random-user-react2.netlify.app/</td> 
      <td>useState, useEffect, axios, async await, REST API</td>
 </tr>
 <tr>
     <td align=center >5.</td>
-    <td>Github User</td>
-    <td>https://react-axios-router-github.vercel.app/</td> 
-     <td>JS DOM, Github API, Async Await, Axios, Events,React-Router</td>
+    <td>Recipe App</td>
+    <td>https://react-recipe-app7.netlify.app/</td> 
+     <td>JS DOM, Async Await, Axios, Events,React-Router</td>
 </tr>
 <tr>
     <td align=center >6.</td>
-    <td>React Blog</td>
-    <td>https://react-blog-alpha-ivory.vercel.app/</td> 
-     <td>JS DOM, Async Await, Axios, Events,React-Router</td>
-</tr>
-<tr>
-    <td align=center >7.</td>
-    <td>Recipe_Sites_Router</td>
-    <td>https://react-router-recipe-site.vercel.app/</td> 
-     <td>JS DOM, Async Await, Axios, Events,React-Router</td>
-</tr>
-<tr>
-    <td align=center >8.</td>
     <td>Weather App</td>
-    <td>https://react03-weather-app.netlify.app/</td> 
+    <td>https://weather-app-react3.netlify.app/</td> 
     <td>React, useState, useEffect, axios, async await, API</td>   
     
 </tr>
 <tr>
-    <td align=center >9.</td>
-    <td>Recipe-App-StyledComponents</td>
-    <td>https://react-recipe-styled-components.vercel.app/</td> 
-     <td>React, useState, useEffect, fetch, async await, API</td> 
-</tr>
-<tr>
-    <td align=center >10.</td>
+    <td align=center >7.</td>
     <td>Movie-App</td>
-    <td>https://movie-app-firebase-material.vercel.app/</td>  
+    <td>https://react-movie-app11.netlify.app/</td>  
      <td> React,Async Await, Axios, Events,React-Router,API, Bootstrap, React-icons</td>  
 </tr>
  <tr>
-    <td align=center >11.</td>
-    <td>Firebase-realtime-contact-form</td>
-    <td>https://firebase-react-contact-form.vercel.app/</td>  
+    <td align=center >8.</td>
+    <td>Task-Tracker</td>
+    <td>https://react-task-tracker-app1.netlify.app/</td>  
     <td> React, firebase database, firebase ( collection, getDocs, addDoc, deleteDoc, doc, updateDoc), Bootstrap, React-icons</td>  
     
    
