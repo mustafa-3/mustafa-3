@@ -124,8 +124,8 @@
 </tr>
 <tr>
     <td align=center >1.</td>
-    <td>React-Tour_Places</td>
-    <td>https://react-tour-places-three.vercel.app/</td> 
+    <td>React-Fireblog</td>
+    <td>https://react-fireblog-app.netlify.app/</td> 
     <td>React, React DOM, Components, Props </td>
 </tr>
 <tr>
