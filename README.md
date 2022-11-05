@@ -178,7 +178,7 @@
 </tr>   
  <tr>
     <td align=center >10.</td>
-    <td>Voltran</td>
+    <td>Shopping Box</td>
     <td>https://mustafa-3.github.io/shopping-box/</td>  
     <td>HTML, CSS </td>  
 </tr>  
