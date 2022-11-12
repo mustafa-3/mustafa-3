@@ -236,6 +236,12 @@
     <td>https://mustafa-3.github.io/Guess-The-Number/</td>  
     <td>HTML, CSS, JavaScript</td>  
 </tr> 
+<tr>
+    <td align=center >20.</td>
+    <td>Calculator</td>
+    <td>https://mustafa-3.github.io/Calculator/</td>  
+    <td>HTML, CSS, JavaScript</td>  
+</tr> 
       
       
 
