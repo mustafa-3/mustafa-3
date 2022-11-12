@@ -114,7 +114,7 @@
 
  <table>
 <tr >
-    <caption>React Projects<caption>
+    <caption>Projects<caption>
     <th width="5%">S.Nu </th>
     <th align="left" width="20%">Project Name</th>
     <th align="left" width="40%">Project Link</th>
@@ -229,6 +229,12 @@
     <td>netflix-survey-project</td>
     <td>https://mustafa-3.github.io/netflix-survey-project/</td>  
     <td>HTML, CSS</td>  
+</tr>
+<tr>
+    <td align=center >19.</td>
+    <td>Guess the Number</td>
+    <td>https://mustafa-3.github.io/Guess-The-Number/</td>  
+    <td>HTML, CSS, JavaScript</td>  
 </tr> 
       
       
