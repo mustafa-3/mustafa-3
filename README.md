@@ -153,7 +153,7 @@
 </tr>
 <tr>
     <td align=center >6.</td>
-    <td>Weather App</td>
+    <td>Weather App React</td>
     <td>https://weather-app-react3.netlify.app/</td> 
     <td>React, useState, useEffect, async await, API</td>   
     
@@ -212,7 +212,12 @@
     <td>https://mustafa-3.github.io/Image-Gallery/</td>  
     <td>HTML, CSS</td>  
 </tr> 
-
+ <tr>
+    <td align=center >16.</td>
+    <td>Weather-App</td>
+    <td>[https://mustafa-3.github.io/Image-Gallery/](https://js-weather-app3.netlify.app/)</td>  
+    <td>HTML, CSS, JavaScript</td>  
+</tr> 
 
 
 </table>
