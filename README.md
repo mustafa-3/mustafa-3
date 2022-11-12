@@ -247,7 +247,15 @@
     <td>toDo App</td>
     <td>https://mustafa-3.github.io/toDo-App/</td>  
     <td>HTML, CSS, JavaScript</td>  
-</tr> 
+</tr>
+<tr>
+    <td align=center >22.</td>
+    <td>Parallax Website</td>
+    <td>https://mustafa-3.github.io/Parallax-Website/</td>  
+    <td>HTML, CSS</td>  
+</tr>
+      
+      
       
       
 
