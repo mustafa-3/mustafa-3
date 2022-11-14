@@ -254,6 +254,14 @@
     <td>https://mustafa-3.github.io/Parallax-Website/</td>  
     <td>HTML, CSS</td>  
 </tr>
+<tr>
+    <td align=center >23.</td>
+    <td>Checkout-Page</td>
+    <td>https://mustafa-3.github.io/Checkout-Page/</td>  
+    <td>HTML, CSS</td>  
+</tr>
+      
+     
       
       
       
